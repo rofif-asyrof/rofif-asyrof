@@ -1,13 +1,13 @@
 # Hi, I'm Rofif 👋
 
-**Fresh Graduate Informatics | QA Engineer**
+**Fresh Graduate Informatics | Aspiring QA Engineer**
 
 I recently graduated with a Bachelor's degree in Informatics from Universitas Gunadarma (GPA 3.62) and I'm currently focused on building a career in **Quality Assurance**, with a growing interest in **Application Security** and **Penetration Testing** as a long-term direction.
 
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
 
 <br/>
 
@@ -21,20 +21,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-### 🎓 Background
-
-- **Education:** Informatics, S.Kom — Universitas Gunadarma (graduated Sept 2025)
-- **Experience:** Backend Web Developer at PT Nusa Pro Media (~5 months) — built a business travel management system for Bekasi City Council (DPRD) using CodeIgniter4 and MySQL
-- **Certifications:** BNSP Junior Computer Network Technician · Cisco Networking Basics · Cisco Introduction to Cybersecurity
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
 
 <br/>
 
@@ -51,35 +38,81 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
 
 <br/>
 
 ### 📌 Featured Projects
 
-| Project | Description | Result |
-|---|---|---|
-| 🎮 **[GameVerse](https://github.com/rofif-asyrof/GameVerse)** | Telegram chatbot for game discovery, built as my undergraduate thesis (Python, FSM-based conversation flow, RAWG.io API integration) | Black-Box Testing 17/17 passed · SUS Score 87.75/100 (Grade A+) |
-| 🎬 **[IMDb Sentiment Analysis](#)** | Sentiment analysis on 20,000 IMDb movie reviews using SVM (linear kernel), with AFINN labeling and TF-IDF feature extraction | 87.67% accuracy |
+| Project | Description | Tech | Result |
+|---|---|---|---|
+| 🎮 **[GameVerse](https://github.com/rofif-asyrof/GameVerse)** | Telegram chatbot for game discovery, built as my undergraduate thesis (FSM-based conversation flow, RAWG.io API integration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Black-Box Testing 17/17 passed · SUS Score 87.75/100 (Grade A+) |
+| 🎬 **[IMDb Sentiment Analysis](#)** | Sentiment analysis on 20,000 IMDb movie reviews using SVM (linear kernel), with AFINN labeling and TF-IDF feature extraction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 87.67% accuracy |
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/rofif-asyrof?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_View_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos"/>
+  </a>
+</div>
 
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
 
 <br/>
 
-### 📊 GitHub Stats
+### 🎓 Background
+
+**Education**
+- **S1 Informatics** — Universitas Gunadarma (Sept 2021 – Sept 2025)
+  - IPK: 3.62 / 4.00
+
+**Experience**
+- **Backend Web Developer** — PT Nusapromedia (Nov 2023 – Mar 2024)
+  - Built a business travel management system for Bekasi City Council using CodeIgniter4 and MySQL.
+  - Verified system integration and executed local functional tests (`php spark serve`) before repository push.
+
+**Certifications (Professional)**
+- **Junior Computer Network Technician** — BNSP (Valid: Sept 2025 – Sept 2028)
+- **Networking Basics** — Cisco Networking Academy (Feb 2026)
+- **Introduction to Cybersecurity** — Cisco Networking Academy (Oct 2025)
+- **Introduction to Information Security** — Cyber Academy Indonesia (Sept 2025)
+
+**Certifications (Internal Training)**
+- **SQL Server for Intermediate** — Universitas Gunadarma (Feb 2024)
+- **SQL Server for Beginner** — Universitas Gunadarma (Feb 2023)
+- **Fundamental DBMS** — Universitas Gunadarma (Feb 2022)
+
+<br/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+
+<br/>
+
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofif-asyrof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Rofif's GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofif-asyrof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=4364F7" alt="Rofif's GitHub Stats"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rofif-asyrof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rofif-asyrof&theme=tokyonight&hide_border=true&background=0D1117&stroke=4364F7&ring=4364F7&fire=4364F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=rofif-asyrof&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
 
 <br/>
 
