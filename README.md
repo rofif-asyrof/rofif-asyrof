@@ -1,13 +1,13 @@
 # Hi, I'm Rofif 👋
 
-**Fresh Graduate Informatics | Aspiring QA Engineer**
+**Fresh Graduate Informatics | QA Engineer**
 
 I recently graduated with a Bachelor's degree in Informatics from Universitas Gunadarma (GPA 3.62) and I'm currently focused on building a career in **Quality Assurance**, with a growing interest in **Application Security** and **Penetration Testing** as a long-term direction.
 
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -21,7 +21,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -38,7 +38,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -59,7 +59,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
@@ -88,15 +88,15 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofif-asyrof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=4364F7" alt="Rofif's GitHub Stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rofif-asyrof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofif-asyrof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=4364F7" alt="Rofif's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rofif-asyrof&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 <!-- GitHub Streak -->
@@ -112,15 +112,23 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 <br/>
 
 <!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b27-ac59-22438823b5d5.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://itsrofif.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rofifasyrof)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rofif.asyrof03@gmail.com)
+<div align="center">
+  <a href="https://itsrofif.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/rofifasyrof">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rofif.asyrof03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 <br/>
 
