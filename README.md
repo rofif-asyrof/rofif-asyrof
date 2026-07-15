@@ -11,7 +11,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 <br/>
 
-### 💼 Current Focus
+## 💼 Current Focus
 
 - 🔍 Actively looking for **QA Engineer** opportunities in Jakarta, Indonesia
 - 🧪 Learning software testing fundamentals — test case design, black-box testing, and test automation basics
@@ -25,7 +25,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 <br/>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -42,7 +42,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 <br/>
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech | Result |
 |---|---|---|---|
@@ -63,36 +63,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 <br/>
 
-### 🎓 Background
-
-**Education**
-- **S1 Informatics** — Universitas Gunadarma (Sept 2021 – Sept 2025)
-  - IPK: 3.62 / 4.00
-
-**Experience**
-- **Backend Web Developer** — PT Nusapromedia (Nov 2023 – Mar 2024)
-  - Built a business travel management system for Bekasi City Council using CodeIgniter4 and MySQL.
-  - Verified system integration and executed local functional tests (`php spark serve`) before repository push.
-
-**Certifications (Professional)**
-- **Junior Computer Network Technician** — BNSP (Valid: Sept 2025 – Sept 2028)
-- **Networking Basics** — Cisco Networking Academy (Feb 2026)
-- **Introduction to Cybersecurity** — Cisco Networking Academy (Oct 2025)
-- **Introduction to Information Security** — Cyber Academy Indonesia (Sept 2025)
-
-**Certifications (Internal Training)**
-- **SQL Server for Intermediate** — Universitas Gunadarma (Feb 2024)
-- **SQL Server for Beginner** — Universitas Gunadarma (Feb 2023)
-- **Fundamental DBMS** — Universitas Gunadarma (Feb 2022)
-
-<br/>
-
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rofif-asyrof&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=4364F7" alt="Rofif's GitHub Stats"/>
@@ -104,7 +75,15 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rofif-asyrof&theme=tokyonight&hide_border=true&background=0D1117&stroke=4364F7&ring=4364F7&fire=4364F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 </p>
 
-<!-- GitHub Trophies -->
+<br/>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=rofif-asyrof&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </p>
@@ -116,7 +95,7 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 <br/>
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://itsrofif.dev">
