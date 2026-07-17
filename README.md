@@ -46,8 +46,8 @@ I recently graduated with a Bachelor's degree in Informatics from Universitas Gu
 
 | Project | Description | Tech | Result |
 |---|---|---|---|
-| 🎮 **[GameVerse](https://github.com/rofif-asyrof/GameVerse)** | Telegram chatbot for game discovery, built as my undergraduate thesis (FSM-based conversation flow, RAWG.io API integration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Black-Box Testing 17/17 passed · SUS Score 87.75/100 (Grade A+) |
-| 🎬 **[IMDb Sentiment Analysis](#)** | Sentiment analysis on 20,000 IMDb movie reviews using SVM (linear kernel), with AFINN labeling and TF-IDF feature extraction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 87.67% accuracy |
+| 🎮 **[GameVerse](https://github.com/rofif-asyrof/chatbot-gameverse)** | Telegram chatbot for game discovery, built as my undergraduate thesis (FSM-based conversation flow, RAWG.io API integration) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Black-Box Testing 17/17 passed · SUS Score 87.75/100 (Grade A+) |
+| 🎬 **[IMDb Sentiment Analysis](https://github.com/rofif-asyrof/imdb-sentiment-analysis-svm)** | Sentiment analysis on 20,000 IMDb movie reviews using SVM (linear kernel), with AFINN labeling and TF-IDF feature extraction | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 87.67% accuracy |
 
 <div align="center">
   <br/>
